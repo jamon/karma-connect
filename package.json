@@ -1,0 +1,26 @@
+{
+  "name": "karma-connect",
+  "version": "1.5.1",
+  "author": {
+    "name": "Jamon Terrell"
+  },
+  "description": "Add connect middleware to karma",
+  "peerDependencies": {
+    "karma": ">=0.12 < 1"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "homepage": "http://github.com/jamon/karma-connect",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamon/karma-connect.git"
+  },
+  "main": "index.js",
+  "bugs": {
+    "url": "https://github.com/jamon/karma-connect/issues"
+  }
+}
